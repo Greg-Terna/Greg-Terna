@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Greg-Terna
+- 👀 I’m interested in Front end development 
+- 🌱 I’m currently learning html, css, java
+- 💞️ I’m looking to collaborate on web development projects 
+- 📫 How to reach me
+- ✉️ Email: gregternaa@gmail.com.
