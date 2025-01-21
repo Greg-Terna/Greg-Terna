@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning html, css, java
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me
-- ✉️ Email: gregternaa@gmail.com.
+- ✉️ Email: apendaterna@gmail.com.
